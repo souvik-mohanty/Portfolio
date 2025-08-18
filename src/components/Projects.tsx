@@ -16,7 +16,7 @@ const Projects = () => {
     "Digital payments with Razorpay"
   ],
   github: "https://github.com/souvik-mohanty/AgroLink",
-  demo: "#",
+  demo: "https://under-construction-404.netlify.app/",
   image: "/api/placeholder/600/400"
 },
 
@@ -34,7 +34,7 @@ const Projects = () => {
         "Discussion forums"
       ],
       "github": "https://github.com/souvik-mohanty/Learning-Management-System",
-      "demo": "#",
+      "demo": "https://under-construction-404.netlify.app/",
       "image": "/api/placeholder/600/400"
     },
     {
