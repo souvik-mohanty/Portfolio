@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+🌐 Souvik Mohanty – Portfolio
 
-## Project info
+Welcome to my personal portfolio! 🚀
+This website showcases my skills, projects, and experiences as a Computer Science & Engineering student, web developer, and tech enthusiast.
 
-**URL**: https://lovable.dev/projects/59c2d2e1-3b73-47d4-92a9-e547c3ef4562
+🔗 Live Portfolio: souvik-personal-site.vercel.app
 
-## How can I edit this code?
+📌 About Me
 
-There are several ways of editing your application.
+🎓 B.Tech in Computer Science & Engineering at Parala Maharaja Engineering College.
 
-**Use Lovable**
+💻 Passionate about Web Development, DSA, and Software Engineering.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/59c2d2e1-3b73-47d4-92a9-e547c3ef4562) and start prompting.
+🛠️ Skilled in C, C++, Java, HTML, CSS, JavaScript, React.js, Node.js, Spring Boot, MongoDB, SQL.
 
-Changes made via Lovable will be committed automatically to this repo.
+🌱 Exploring Microservices, Cloud, and AI-driven solutions.
 
-**Use your preferred IDE**
+⚡ Features of Portfolio
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+📖 About Me – Quick overview of my background & goals.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+🛠️ Projects – Showcasing full-stack, academic & freelance projects.
 
-Follow these steps:
+📚 Skills/Tech Stack – My programming languages, frameworks, and tools.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+🏆 Achievements – Competitions, certifications & scholarships.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📬 Contact Section – Easy ways to reach me.
 
-# Step 3: Install the necessary dependencies.
-npm i
+🚀 Projects Highlighted
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Some of the projects featured in the portfolio:
 
-**Edit a file directly in GitHub**
+AgroLink – Smart Agricultural Supply Chain Platform 🌱
+(Spring Boot + React + Microservices)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Learning Management System (LMS) 🎓
+(React + Node.js + MongoDB)
 
-**Use GitHub Codespaces**
+Portfolio Website 💼
+(React + Vite + TailwindCSS)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🛠️ Tech Stack
 
-## What technologies are used for this project?
+Frontend: HTML, CSS, JavaScript, React.js
+Backend: Spring Boot, Node.js
+Databases: MongoDB, SQL, PostgreSQL
+Languages: C, C++, Java
+Other Skills: DSA, OOP, Git/GitHub
 
-This project is built with:
+📫 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+📧 Email: souvik.mohanty.tech@gmail.com
 
-## How can I deploy this project?
+💼 LinkedIn: linkedin.com/in/souvik-mohanty
 
-Simply open [Lovable](https://lovable.dev/projects/59c2d2e1-3b73-47d4-92a9-e547c3ef4562) and click on Share -> Publish.
+🐙 GitHub: github.com/souvik-mohanty
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+✨ Thanks for visiting my portfolio repository! Feel free to explore and connect with me.
