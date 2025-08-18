@@ -71,7 +71,7 @@ const Projects = () => {
       "demo": "https://bridge-connect.netlify.app/",
       "image": "/api/placeholder/600/400"
     },
-    {
+   {
   "title": "Pathology Management System",
   "description": "A streamlined platform for pathology labs to manage test services, pricing, and patient diagnostics with admin controls and Firebase integration.",
   "techStack": ["HTML", "CSS", "JavaScript", "Vite", "Firebase", "Netlify"],
@@ -84,11 +84,12 @@ const Projects = () => {
     "Secure data operations",
     "Hosted on Netlify"
   ],
-  "github": "https://github.com/souvik-mohanty/Pathology_Management",  // Replace with your GitHub repo URL
+  "github": "https://github.com/souvik-mohanty/Pathology_Management",
   "demo": "https://lpcarepathology-service.netlify.app/",
-  "image": "" 
+  "image": ""
+}
+]
 
-   ];
 
   return (
     <section id="projects" className="py-20 bg-section-bg">
