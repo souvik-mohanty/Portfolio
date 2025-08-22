@@ -16,7 +16,7 @@ const Projects = () => {
     "Digital payments with Razorpay"
   ],
   github: "https://github.com/souvik-mohanty/AgroLink",
-  demo: "#",
+  demo: "https://under-construction-404.netlify.app/",
   image: "/api/placeholder/600/400"
 },
 
@@ -34,7 +34,7 @@ const Projects = () => {
         "Discussion forums"
       ],
       "github": "https://github.com/souvik-mohanty/Learning-Management-System",
-      "demo": "#",
+      "demo": "https://under-construction-404.netlify.app/",
       "image": "/api/placeholder/600/400"
     },
     {
@@ -72,10 +72,14 @@ const Projects = () => {
       "image": "/api/placeholder/600/400"
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
    {
 =======
   {
 >>>>>>> 2f9ac90 (Updated resume and modified components)
+=======
+  {
+>>>>>>> 16a13c9705c435eae23b19a3a3ea6b9bad77f530
   "title": "Pathology Management System",
   "description": "A streamlined platform for pathology labs to manage test services, pricing, and patient diagnostics with admin controls and Firebase integration.",
   "techStack": ["HTML", "CSS", "JavaScript", "Vite", "Firebase", "Netlify"],
