@@ -71,19 +71,11 @@ const Projects = () => {
       "demo": "https://bridge-connect.netlify.app/",
       "image": "/api/placeholder/600/400"
     },
-<<<<<<< HEAD
-<<<<<<< HEAD
-   {
-=======
-  {
->>>>>>> 2f9ac90 (Updated resume and modified components)
-=======
-  {
->>>>>>> 16a13c9705c435eae23b19a3a3ea6b9bad77f530
-  "title": "Pathology Management System",
-  "description": "A streamlined platform for pathology labs to manage test services, pricing, and patient diagnostics with admin controls and Firebase integration.",
-  "techStack": ["HTML", "CSS", "JavaScript", "Vite", "Firebase", "Netlify"],
-  "category": "Healthcare Management",
+    {
+      "title": "Pathology Management System",
+      "description": "A streamlined platform for pathology labs to manage test services, pricing, and patient diagnostics with admin controls and Firebase integration.",
+      "techStack": ["HTML", "CSS", "JavaScript", "Vite", "Firebase", "Netlify"],
+      "category": "Healthcare Management",
   "features": [
     "Admin login and authentication",
     "Add and manage pathology tests",

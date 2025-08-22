@@ -1,7 +1,19 @@
-import { Trophy, Award, Calendar, Users } from 'lucide-react';
+import { Trophy, Award, Calendar, Users, Briefcase } from 'lucide-react';
 
 const Experience = () => {
   const achievements = [
+    {
+      category: "Internships",
+      icon: <Briefcase className="h-6 w-6 text-primary" />,
+      items: [
+        {
+          title: "Web Development Intern",
+          organization: "Unified Mentor Pvt Ltd",
+          year: "July - August 2025",
+          description: "Worked on full-stack projects including a Hospital Operation Scheduler and a platform connecting Investors and Business People. Gained hands-on experience with HTML, CSS, JavaScript, Firebase Authentication, and Cloud Firestore."
+        }
+      ]
+    },
     {
       category: "Competitions",
       icon: <Trophy className="h-6 w-6 text-accent" />,
@@ -12,12 +24,6 @@ const Experience = () => {
           year: "2024",
           description: "Won first place in the annual web development competition showcasing innovative solutions"
         },
-        // {
-        //   title: "TCS CodeVita Participant",
-        //   organization: "TCS",
-        //   year: "2023-2024",
-        //   description: "Participated in one of India's largest coding competitions, solving complex algorithmic problems"
-        // },
         {
           title: "GFG Challenges",
           organization: "GeekForGeek",
@@ -56,22 +62,16 @@ const Experience = () => {
       items: [
         {
           title: "Team Lead - AgroLink Project",
-          organization: "PMEC",
-          year: "2024",
+          organization: "GitHub Community",
+          year: "2025",
           description: "Led a team of 4 developers in building a comprehensive agriculture supply chain platform"
         },
         {
           title: "Frontend Developer - Learning Management System",
-          organization: "GitHub Community",
-          year: "2023-Present",
+          organization: "PMEC",
+          year: "2024",
           description: "Active contributor to various open-source projects and community initiatives"
-        },
-        // {
-        //   title: "Peer Mentor",
-        //   organization: "College Programming Club",
-        //   year: "2023-Present",
-        //   description: "Mentoring junior students in programming concepts and project development"
-        // }
+        }
       ]
     }
   ];
