@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌐 Portfolio Website
 
 A modern, responsive personal portfolio website built with **React**, **Vite**, **TailwindCSS**, and **shadcn/ui**.  
@@ -23,11 +23,6 @@ This portfolio showcases my **projects, skills, and experience**, designed with 
 - **Icons & Components:** Lucide-react, Radix UI
 - **Deployment:** GitHub Pages / Netlify / Vercel (your choice)
 
----
-
-## 📸 Preview
-
-(Add a screenshot or GIF of your portfolio here)
 
 ---
 
@@ -100,4 +95,4 @@ Other Skills: DSA, OOP, Git/GitHub
 🐙 GitHub: github.com/souvik-mohanty
 
 ✨ Thanks for visiting my portfolio repository! Feel free to explore and connect with me.
->>>>>>> 16a13c9705c435eae23b19a3a3ea6b9bad77f530
+
